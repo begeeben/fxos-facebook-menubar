@@ -1,6 +1,6 @@
 {
   "name": "Facebook-Menubar",
-  "description": "Add show windows, and kill app button to the software home button bar",
+  "description": "Keep the menu bar always available on Firefox OS Facebook app.",
   "developer": {
     "name": "begeeben"
   },
