@@ -1,0 +1,18 @@
+{
+  "name": "Facebook-Menubar",
+  "description": "Add show windows, and kill app button to the software home button bar",
+  "developer": {
+    "name": "begeeben"
+  },
+  "package_path": "package.zip",
+  "role": "addon",
+  "type": "certified",
+  "customizations": [{
+    "filter": "https://m.facebook.com/",
+    "css": [],
+    "scripts": ["facebook-menubar.js"]
+  }],
+  "icons": {
+    "128": "icons/facebook-menubar.png"
+  }
+}
