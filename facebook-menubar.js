@@ -25,6 +25,7 @@
       header.style.position = 'fixed';
       header.style.width = '100%';
       header.style.borderTopWidth = '0';
+      header.style.zIndex = '1';
       isFixed = true;
     } else if (!doFixed) {
       header.style.position = '';

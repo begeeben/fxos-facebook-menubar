@@ -1,2 +1,2 @@
 package:
-	zip package.zip facebook-menubar.js manifest.webapp -r icons
+	zip extension.zip facebook-menubar.js manifest.webapp update.webapp -r icons

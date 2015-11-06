@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "name": "Facebook-Menubar",
+  "description": "Keep the menu bar always available on Firefox OS Facebook app.",
+  "version": "1.0",
+  "author": "begeeben",
+  "content_scripts": [{
+    "matches": ["https://m.facebook.com/"],
+    "css": [],
+    "js": ["facebook-menubar.js"]
+  }],
+  "icons": {
+    "128": "icons/facebook-menubar.png"
+  }
+}
